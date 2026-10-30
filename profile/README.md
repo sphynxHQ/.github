@@ -4,7 +4,7 @@
   <img alt="Sphynx — self-hosted bot defense" src="https://raw.githubusercontent.com/sphynxHQ/.github/main/profile/assets/banner-light.png">
 </picture>
 
-### Self-hosted bot defense
+### Self-hosted antibot
 
 Your traffic, your visitors' fingerprints and your thresholds never leave your servers.
 
